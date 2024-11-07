@@ -14,3 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@gmuskan92652394/30-nites-of-code)  
   ![@gmuskan92652394 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gmuskan92652394)
+
+
+  ## Introduction
+![SQL Icon](https://www.svgrepo.com/show/331760/sql-database.svg)
+
+Welcome to my SQL practice journey! Here, I log my progress, challenges, and key insights. This repository is meant to track my improvement and serve as a reference for anyone learning SQL.
+
