@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   ## Introduction
 Welcome to my SQL practice journey! Here, I log my progress, challenges, and key insights. This repository tracks my improvement and serves as a reference for anyone learning SQL.
 
-# SQL Practice Progress ![Progress Badge](https://img.shields.io/badge/Progress-50%25-blue)
+# SQL Practice Progress ![Progress Badge](https://img.shields.io/badge/Progress-30%25-blue)
 
 
 
@@ -31,7 +31,7 @@ Currently, I'm practicing SQL on [Strata Scratch](https://platform.stratascratch
 You can track my SQL journey and see my progress directly on my [Strata Scratch Profile](https://platform.stratascratch.com/user/Muskan267). 
 Check out my completed challenges, scores, and growth over time!
 
-![Strata Scratch Progress](https://img.shields.io/badge/Progress-75%25-brightgreen) <!-- Replace this progress value with your actual progress -->
+
 
 ---
 
