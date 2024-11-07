@@ -21,13 +21,15 @@ Welcome to my SQL practice journey! Here, I log my progress, challenges, and key
 
 # SQL Practice Progress ![Progress Badge](https://img.shields.io/badge/Progress-50%25-blue)
 
-# Muskan Gupta's SQL Practice Progress 🚀
+
 
 ## Introduction
-Hi! I’m Muskan Gupta, a passionate data professional actively enhancing my SQL skills. Currently, I'm practicing SQL on [Strata Scratch](https://platform.stratascratch.com/user/Muskan267) and tackling real-world SQL challenges to build my analytical skills and deepen my understanding of data.
+Hi! I’m Muskan Gupta, a passionate data professional actively enhancing my SQL skills. 
+Currently, I'm practicing SQL on [Strata Scratch](https://platform.stratascratch.com/user/Muskan267) and tackling real-world SQL challenges to build my analytical skills and deepen my understanding of data.
 
 ## 📊 Performance Dashboard
-You can track my SQL journey and see my progress directly on my [Strata Scratch Profile](https://platform.stratascratch.com/user/Muskan267). Check out my completed challenges, scores, and growth over time!
+You can track my SQL journey and see my progress directly on my [Strata Scratch Profile](https://platform.stratascratch.com/user/Muskan267). 
+Check out my completed challenges, scores, and growth over time!
 
 ![Strata Scratch Progress](https://img.shields.io/badge/Progress-75%25-brightgreen) <!-- Replace this progress value with your actual progress -->
 
