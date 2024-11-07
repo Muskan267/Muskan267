@@ -21,3 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my SQL practice journey! Here, I log my progress, challenges, and key insights. This repository is meant to track my improvement and serve as a reference for anyone learning SQL.
 
+# SQL Practice Progress ![Progress Badge](https://img.shields.io/badge/Progress-50%25-blue)
