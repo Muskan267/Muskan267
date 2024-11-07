@@ -80,7 +80,7 @@ Check out my completed challenges, scores, and growth over time!
 ## 📚 Resources Used
 - [Strata Scratch SQL Challenges](https://platform.stratascratch.com/user/Muskan267)
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
-- [SQLBolt Interactive Lessons](https://sqlbolt.com)
+
 
 ## 👋 Feedback and Contributions
 I’m open to feedback! Feel free to connect, raise issues, or contribute suggestions for improving this repository.
@@ -88,6 +88,6 @@ I’m open to feedback! Feel free to connect, raise issues, or contribute sugges
 ---
 
 **Connect with me**:  
-[LinkedIn](https://www.linkedin.com/in/muskan-gupta) | [GitHub](https://github.com/Muskan267) | [Strata Scratch](https://platform.stratascratch.com/user/Muskan267)
+[LinkedIn](https://www.linkedin.com/in/muskan-gupta267/) | [GitHub](https://github.com/Muskan267) | [Strata Scratch](https://platform.stratascratch.com/user/Muskan267)
 
 
