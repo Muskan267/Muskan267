@@ -87,6 +87,28 @@ I’m open to feedback! Feel free to connect, raise issues, or contribute sugges
 
 ---
 
+# Hi there, I'm Muskan Gupta 👋
+
+Welcome to my GitHub profile! I'm a Data Scientist with a passion for machine learning, data engineering, and data visualization. Here, you'll find my projects, contributions, and resources related to data science.
+
+## 🌐 Connect with me
+- **[Medium Blog](https://medium.com/@gmuskan926):** Sharing insights, tutorials, and articles about data science, Power BI, and more!
+
+## 📚 My Latest Medium Articles
+
+Here are some of my recent articles on Medium. Check them out for practical tips and knowledge sharing!
+
+1. **[Title of Blog 1](https://medium.com/@gmuskan926/slug-for-blog-1)** - Brief description of Blog 1.
+2. **[Title of Blog 2](https://medium.com/@gmuskan926/slug-for-blog-2)** - Brief description of Blog 2.
+3. **[Title of Blog 3](https://medium.com/@gmuskan926/slug-for-blog-3)** - Brief description of Blog 3.
+
+*Visit my [Medium profile](https://medium.com/@gmuskan926) for more articles!*
+
+## 📊 GitHub Stats
+
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&t
+
+
 **Connect with me**:  
 [LinkedIn](https://www.linkedin.com/in/muskan-gupta267/) | [GitHub](https://github.com/Muskan267) | [Strata Scratch](https://platform.stratascratch.com/user/Muskan267)
 
