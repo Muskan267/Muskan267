@@ -12,7 +12,27 @@ Muskan267/Muskan267 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Muskan Gupta's HackerRank Profile
-**Check out my HackerRank profile here:** [Muskan Gupta on HackerRank](https://www.hackerrank.com/dashboard)  
+**Check out my full profile here:** [Muskan Gupta on HackerRank](https://www.hackerrank.com/profile/gmuskan926)
+
+---
+
+## 🏅 Badges Earned
+
+### **SQL**
+![SQL Badge](https://hrcdn.net/community-frontend/assets/badges/sql-cf610f3429.svg)
+
+### **Problem Solving**
+![Problem Solving Badge](https://hrcdn.net/community-frontend/assets/badges/problem-solving-e9774e4b8f.svg)
+
+### **Python**
+![Python Badge](https://hrcdn.net/community-frontend/assets/badges/python-525c67f2e3.svg)
+
+---
+
+## 📊 Skills Demonstrated
+- **SQL**: Proficiency in querying, joins, subqueries, window functions, and database optimization.
+- **Python**: Expertise in
+
 
 ---
 
