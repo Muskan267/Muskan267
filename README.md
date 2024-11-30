@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 **Check out my full profile here:** [Muskan Gupta on HackerRank](https://www.hackerrank.com/profile/gmuskan926)
 
 ---
+## Certification Earned 
+
+### **Basic of SQL**
+![SQL Badge](https://www.hackerrank.com/certificates/iframe/3d819b08f60d.svg)
 
 ## 🏅 Badges Earned
 
