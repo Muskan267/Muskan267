@@ -11,12 +11,33 @@
 Muskan267/Muskan267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Muskan Gupta's HackerRank Profile
+**Check out my HackerRank profile here:** [Muskan Gupta on HackerRank](https://www.hackerrank.com/dashboard)  
+
+---
+
+## 📊 What You'll Find on My Profile
+- **Coding Challenges**: Solutions across domains like:
+  - **Algorithms**: Sorting, searching, dynamic programming, and more.
+  - **Data Structures**: Linked lists, trees, graphs, and arrays.
+  - **SQL**: Advanced querying, joins, and database optimization.
+  - **Python**: Scripting and problem-solving in Python.
+- **Leaderboard Rankings**: Highlights of my competitive coding progress.
+- **Certifications**: Courses completed on HackerRank in various topics.
+
+---
+
+## 💡 Skills Demonstrated
+- **Problem-Solving**: Logical and analytical thinking to solve complex coding challenges.
+- **Programming Languages**
+
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@gmuskan92652394/30-nites-of-code)  
   ![@gmuskan92652394 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gmuskan92652394)
 
 
-  ## Introduction
+## Introduction
 Welcome to my SQL practice journey! Here, I log my progress, challenges, and key insights. This repository tracks my improvement and serves as a reference for anyone learning SQL.
 
 # SQL Practice Progress ![Progress Badge](https://img.shields.io/badge/Progress-30%25-blue)
