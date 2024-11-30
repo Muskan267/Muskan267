@@ -27,11 +27,29 @@ Welcome to my SQL practice journey! Here, I log my progress, challenges, and key
 Hi! I’m Muskan Gupta, a passionate data professional actively enhancing my SQL skills. 
 Currently, I'm practicing SQL on [Strata Scratch](https://platform.stratascratch.com/user/Muskan267) and tackling real-world SQL challenges to build my analytical skills and deepen my understanding of data.
 
+
+---
+
+## 📊 What You'll Find on My Profile
+- **Challenging SQL Solutions**: Queries designed for real-world data problems.
+- **Optimization Techniques**: Clean, efficient, and optimized SQL queries.
+- **Wide Variety of Datasets**: Practice on datasets ranging from e-commerce, healthcare, finance, and more.
+- **Interactive Learning**: An evolving journey with solutions for entry-level to advanced SQL challenges.
+
+---
+
+## 💡 Skills Demonstrated
+- **SQL Expertise**: Advanced querying techniques, including:
+  - Joins
+  - Window Functions
+  - Subqueries
+  - Aggregations
+  - Com
+
+
 ## 📊 Performance Dashboard
 You can track my SQL journey and see my progress directly on my [Strata Scratch Profile](https://platform.stratascratch.com/user/Muskan267). 
 Check out my completed challenges, scores, and growth over time!
-
-
 
 ---
 
@@ -82,19 +100,12 @@ Check out my completed challenges, scores, and growth over time!
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
 
 
-## 👋 Feedback and Contributions
-I’m open to feedback! Feel free to connect, raise issues, or contribute suggestions for improving this repository.
-
 ---
-
 - **[Medium Blog](https://medium.com/@gmuskan926):** Sharing insights, tutorials, and articles about data science, Power BI, and more!
-
-
-
 *Visit my [Medium profile](https://medium.com/@gmuskan926) for more articles!*
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 ![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&t
 
 
